@@ -1,4 +1,4 @@
-# 
+# exclusive Polymarket Module | trailing-stops + price-monitoring is the best Polymarket module, featuring trailing-stops and price-monitoring. Smart, fast, and optimized for
 
 
 
